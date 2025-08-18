@@ -3,7 +3,7 @@
 Este projeto contém um script Python que automatiza a organização de arquivos em computadores Windows. O programa busca arquivos de imagens, vídeos e planilhas Excel em todas as unidades do sistema, exceto pastas de sistema e outras pastas protegidas, e os move para pastas de destino específicas.
 
 # Motivo do desenvolvimento
-Meus pais têm um computador antigo que gostaria de transformar em um homelab. Eles concordaram, com a condição de salvar todas as fotos armazenadas nele para transferir ao computador mais recente. Eram cerca de 8 mil fotos espalhadas em diretórios diversos e bastante desorganizados. Por isso, decidi criar um script Python para automatizar essa varredura e organização dos arquivos.
+Meus pais têm um computador antigo que gostaria de transformar em um homelab. Eles concordaram, com a condição de salvar todas as fotos do PC antigo no PC novo. Eram cerca de 8 mil fotos espalhadas em diretórios diversos e bastante desorganizados. Por isso, decidi criar um script Python para automatizar essa varredura e organização dos arquivos.
 
 ## Funcionalidades
 
